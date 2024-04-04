@@ -1,0 +1,1 @@
+sphinx-build -b html "D:\Desktop\Jobs&Assignments\Sylvia2\Code" "D:\Desktop\Jobs&Assignments\Sylvia2\PhoenixSphinxProject"
